@@ -5,4 +5,4 @@ SID: 21173812
 This Maven project demonstrates Java development, Git version control,
 and publishing a project to GitHub.
 
-![IntelliJ Lab 1 screenshot](lab1-screenshot.png)
+![IntelliJ Lab 1 screenshot](Lab1_IntelliJ_Screenshot.png)
